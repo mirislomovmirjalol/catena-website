@@ -1,6 +1,5 @@
 import Image from "next/image";
 import * as motion from "framer-motion/client"
-import { Spotlight } from "@/components/ui/spotlight";
 
 export default function Home() {
   return (
